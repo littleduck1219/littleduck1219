@@ -1,4 +1,12 @@
 ### Hi there 👋
+### I am taking the AI course at Microsoft AI School.
+<a href="버튼을 눌렀을 때 이동할 링크" target="5E5E5E"><img src="https://img.shields.io/badge/Micrisoft AI School-FFFFFF?style=?style=flat-square&logo=appveyor&logo=#5E5E5E&logoColor=FFFFFF"/></a>
+
+
+
+
+
+
 
 <!--
 **littleduck1219/littleduck1219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
