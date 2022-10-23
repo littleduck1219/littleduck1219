@@ -11,7 +11,8 @@
 <img src="https://img.shields.io/badge/MicrosoftAzure-0078D4?style=flat-square&logo=MicrosoftAzure&logoColor=white"/>
 </p>
 
-
+### Stat
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=littleduck1219)](https://github.com/littleduck1219/github-readme-stats)
 
 
 
