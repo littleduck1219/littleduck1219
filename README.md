@@ -1,6 +1,6 @@
  ### <div align='center'> Hi there 👋</div>
 #### <div align='center'>I am taking the AI course at Microsoft AI School.</div>
-<div align='center'><img src="https://img.shields.io/badge/Micrisift AI School-black?style=flat-square&logo=Microsoft&logoColor=white"/></div>
+<div align='center'><img src="https://img.shields.io/badge/Microsoft AI School-black?style=flat-square&logo=Microsoft&logoColor=white"/></div>
 
 
 ### <div align='center'>👊👊 Daily coing challenge 👊👊</div>
