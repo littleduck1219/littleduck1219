@@ -5,9 +5,6 @@
 || Microsoft Certifications DP - 900 |
 | Completion | innovationcamp (2023.05 ~ )
 ||Microsoft AI School (2022.10 ~ 2023.03) |
-||Udemi - Python Bootcamp: Mastering Python Development with 100 Projects |
-||infrun - Pytorch boot camp |
-
 
 ### Stacks
 |         | Web           | Data      | Cloud           |
