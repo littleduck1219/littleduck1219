@@ -3,7 +3,7 @@
 | Certification | Microsoft Certifications AI - 900
 |:-----------------|:-----------------------------------|
 || Microsoft Certifications DP - 900 |
-| Completion | innovationcamp (2023.05 ~ )
+| Completion | innovationcamp (2023.05 ~ 2023.09)
 ||Microsoft AI School (2022.10 ~ 2023.03) |
 
 ### Stacks
