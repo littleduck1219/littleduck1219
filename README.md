@@ -1,6 +1,6 @@
 # Park Gyeongdeok&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.linkedin.com/in/ai-duck"><img src="https://img.shields.io/badge/linkedin-0A66C2?style={스타일}&logo=linkedin&logoColor={로고 색깔}"/></a>
 
-| Certification | Microsoft Certifications AI - 900
+| Certification | Microsoft Certifications AI - 900 |
 |:-----------------|:-----------------------------------|
 || Microsoft Certifications DP - 900 |
 | Completion | innovationcamp (2023.05 ~ 2023.09)
