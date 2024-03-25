@@ -15,4 +15,4 @@
 | **Platforms**  | <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/> | | <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=MicrosoftAzure&logoColor=white"/> <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/> |
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=littleduck)](https://solved.ac/littleduck/)
+
