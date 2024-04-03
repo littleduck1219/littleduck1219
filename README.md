@@ -1,8 +1,5 @@
 # Park Gyeongdeok&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.linkedin.com/in/ai-duck"><img src="https://img.shields.io/badge/linkedin-0A66C2?style={스타일}&logo=linkedin&logoColor={로고 색깔}"/></a>
 
-![오리-흰색(150x150)](https://github.com/littleduck1219/littleduck1219/assets/107936957/5e7cb8e3-1ed3-4f20-bc07-f84d981f066b)
-![오리-검정(150x150)](https://github.com/littleduck1219/littleduck1219/assets/107936957/fba332a7-5fda-4fec-8dd8-3594c376561f)
-
 | Certification | Microsoft Certifications AI - 900 |
 |:-----------------|:-----------------------------------|
 || Microsoft Certifications DP - 900 |
