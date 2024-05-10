@@ -1,4 +1,4 @@
-# Park Gyeongdeok&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://littleduck1219.github.io/"><img src="https://img.shields.io/badge/blog-000000?style={스타일}&logo=github&logoColor={로고 색깔}"/></a><a href="http://www.linkedin.com/in/ai-duck"><img src="https://img.shields.io/badge/linkedin-0A66C2?style={스타일}&logo=linkedin&logoColor={로고 색깔}"/></a>
+# littleduck | Park Gyeongdeok&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://littleduck1219.github.io/"><img src="https://img.shields.io/badge/blog-000000?style={스타일}&logo=github&logoColor={로고 색깔}"/></a><a href="http://www.linkedin.com/in/ai-duck"><img src="https://img.shields.io/badge/linkedin-0A66C2?style={스타일}&logo=linkedin&logoColor={로고 색깔}"/></a>
 
 | Certification | Microsoft Certifications AI - 900 |
 |:-----------------|:-----------------------------------|
