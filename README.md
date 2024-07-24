@@ -1,10 +1,10 @@
 # littleduck | Park Gyeongdeok&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://littleduck1219.github.io/"><img src="https://img.shields.io/badge/blog-000000?style={스타일}&logo=github&logoColor={로고 색깔}"/></a><a href="http://www.linkedin.com/in/ai-duck"><img src="https://img.shields.io/badge/linkedin-0A66C2?style={스타일}&logo=linkedin&logoColor={로고 색깔}"/></a>
-
-| Certification | Microsoft Certifications AI - 900 |
+| Career | ATTO RESEARCH (2024.08.01 ~ ) |
 |:-----------------|:-----------------------------------|
-|| Microsoft Certifications DP - 900 |
+| Certification | Microsoft Certifications AI - 900 |
+| | Microsoft Certifications DP - 900 |
 | Completion | innovationcamp (2023.05 ~ 2023.09)
-||Microsoft AI School (2022.10 ~ 2023.03) ||
+| | Microsoft AI School (2022.10 ~ 2023.03) |
 
 
 ### Front End Developer
