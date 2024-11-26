@@ -1,6 +1,7 @@
 # littleduck | Park Gyeongdeok&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://littleduck1219.github.io/"><img src="https://img.shields.io/badge/blog-000000?style={스타일}&logo=github&logoColor={로고 색깔}"/></a><a href="http://www.linkedin.com/in/ai-duck"><img src="https://img.shields.io/badge/linkedin-0A66C2?style={스타일}&logo=linkedin&logoColor={로고 색깔}"/></a>
 | Career | ATTO RESEARCH Internship (2024.08.01 ~ 2024.10.31) |
 |:-----------------|:-----------------------------------|
+|  | ATTO RESEARCH FE (2024.11.01 ~ ) |
 | Certification | Microsoft Certifications AI - 900 |
 | | Microsoft Certifications DP - 900 |
 | Completion | innovationcamp (2023.05 ~ 2023.09)
