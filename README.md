@@ -1,4 +1,4 @@
-# littleduck | Park Gyeongdeok&nbsp;&nbsp;&nbsp;&nbsp; [![Blog Badge](https://img.shields.io/badge/blog-FFCD00?style=flat-square&logo=Kakao&logoColor=white&link=https:www.littleduck.kr)](https:www.littleduck.kr/)
+# littleduck | Park Gyeongdeok&nbsp;&nbsp;&nbsp;&nbsp; [![Blog Badge](https://img.shields.io/badge/blog-FFCD00?style=flat-square&logo=Kakao&logoColor=white&link=https://www.littleduck.kr/blog)](https://www.littleduck.kr/blog)
 |  | ATTO RESEARCH FE (2024.11.01 ~ ) |
 |:-----------------|:-----------------------------------|
 | Career | ATTO RESEARCH Internship (2024.08.01 ~ 2024.10.31) |
