@@ -7,7 +7,9 @@
 | Completion | innovationcamp (2023.05 ~ 2023.09)
 | | Microsoft AI School (2022.10 ~ 2023.03) |
 
-
+<a href="https://gitfut.com/littleduck1219">
+  <img src="https://gitfut.com/littleduck1219.png" alt="My GitFut card" width="400">
+</a>
 
 ## Front End Developer
 ### Stacks
@@ -17,4 +19,4 @@
 
  <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/> 
 
-[![My GitFut card](https://gitfut.com/littleduck1219.png)](https://gitfut.com/littleduck1219)
+
