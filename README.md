@@ -4,7 +4,8 @@
 |  | ATTO RESEARCH Internship (2024.08.01 ~ 2024.10.31) |
 | Certification | Microsoft Certifications AI - 900 |
 | | Microsoft Certifications DP - 900 |
-| Completion | innovationcamp (2023.05 ~ 2023.09)
+| Completion | INNER CIRCLE UXUI X PM Course (2026.07 ~ 2026.11)(ing) |
+| | innovationcamp (2023.05 ~ 2023.09) |
 | | Microsoft AI School (2022.10 ~ 2023.03) |
 
 <a href="https://gitfut.com/littleduck1219">
