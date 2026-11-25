@@ -8,10 +8,6 @@
 | | innovationcamp (2023.05 ~ 2023.09) |
 | | Microsoft AI School (2022.10 ~ 2023.03) |
 
-<a href="https://gitfut.com/littleduck1219">
-  <img src="https://gitfut.com/littleduck1219.png" alt="My GitFut card" width="400">
-</a>
-
 ## Front End Developer
 ### Stacks
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
